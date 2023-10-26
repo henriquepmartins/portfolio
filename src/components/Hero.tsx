@@ -26,7 +26,7 @@ export function Hero() {
                 Fale comigo
               </a>
               <span className="italic text-gray-500">ou</span>
-              <a href="https://docs.google.com/document/d/172VwEM4EZ3V9FLHDzSOHSJTml5bbUl8__4c6maontX4/edit" className="button text-gray-600 hover:text-blue-700 flex items-center gap-2">
+              <a href="https://docs.google.com/document/d/172VwEM4EZ3V9FLHDzSOHSJTml5bbUl8__4c6maontX4/edit?usp=sharing" className="button text-gray-600 hover:text-blue-700 flex items-center gap-2 ">
               <HiDownload />
                 Baixe meu CV
               </a>
